@@ -1,0 +1,7 @@
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\DotNetProjects\Atif-Test\Week1Challange\bin\Debug\Week1Challange.exe.config
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\DotNetProjects\Atif-Test\Week1Challange\bin\Debug\Week1Challange.exe
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\DotNetProjects\Atif-Test\Week1Challange\bin\Debug\Week1Challange.pdb
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\DotNetProjects\Atif-Test\Week1Challange\obj\Debug\Week1Challange.csprojAssemblyReference.cache
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\DotNetProjects\Atif-Test\Week1Challange\obj\Debug\Week1Challange.csproj.CoreCompileInputs.cache
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\DotNetProjects\Atif-Test\Week1Challange\obj\Debug\Week1Challange.exe
+C:\Users\abaloch\Desktop\ElevenFiftyProjects\DotNetProjects\Atif-Test\Week1Challange\obj\Debug\Week1Challange.pdb
